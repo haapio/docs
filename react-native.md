@@ -25,6 +25,7 @@
 
 - [Device info](https://github.com/rebeccahughes/react-native-device-info)
 - [Redux](http://blog.tylerbuchea.com/super-simple-react-redux-application-example/)
+- (http://technoetics.in/redux-explained-as-a-random-messenger-group-conversation/)
 - [Mobx](https://blog.callstack.io/write-react-native-apps-in-2017-style-with-mobx-e2dffc209fcb)
 - [Axios](https://github.com/mzabriskie/axios)
 - [Splash screen](https://www.npmjs.com/package/react-native-smart-splash-screen)

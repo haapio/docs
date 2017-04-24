@@ -1,4 +1,5 @@
 # Docs
 
-[React](https://github.com/haapio/docs/edit/master/react)
-[React Native](https://github.com/haapio/docs/edit/master/react-native)
+- [Github](https://github.com/haapio/docs/master/github)
+- [React](https://github.com/haapio/docs/master/react)
+- [React Native](https://github.com/haapio/docs/master/react-native)

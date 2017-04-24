@@ -15,6 +15,12 @@
 - (http://facebook.github.io/react-native/blog/)
 - (https://www.facebook.com/groups/reactnativeoss/?ref=group_cover)
 
+## Courses
+- (https://www.udemy.com/react-native-advanced/)
+- (https://www.lynda.com/Web-training-tutorials/88-0.html)
+- (https://egghead.io/courses)
+- (https://www.pluralsight.com/courses/build-react-native-exponent-redux-apps)
+
 ## Components
 
 - [Device info](https://github.com/rebeccahughes/react-native-device-info)

@@ -40,6 +40,9 @@
 
 ## Auth:
 - (https://github.com/fullstackreact/react-native-oauth)
+- [facebook login](https://www.youtube.com/watch?v=rAXVKapP5cM)
+- [login ui](https://www.youtube.com/watch?v=1xu1eeRCPEk)
+- (https://github.com/fullstackreact/react-native-oauth)
 
 ## Navigations
 - (https://github.com/aksonov/react-native-router-flux)

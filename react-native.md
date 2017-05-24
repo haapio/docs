@@ -38,6 +38,9 @@
 ## Forms
 - (https://github.com/gcanti/tcomb-form-native)
 
+## Location
+- (https://www.npmjs.com/package/geolib)
+
 ## Auth:
 - (https://github.com/fullstackreact/react-native-oauth)
 - [facebook login](https://www.youtube.com/watch?v=rAXVKapP5cM)

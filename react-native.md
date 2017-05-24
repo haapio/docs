@@ -28,7 +28,8 @@
 - (http://technoetics.in/redux-explained-as-a-random-messenger-group-conversation/)
 - [Mobx](https://blog.callstack.io/write-react-native-apps-in-2017-style-with-mobx-e2dffc209fcb)
 - [Axios](https://github.com/mzabriskie/axios)
-- [Splash screen](https://www.npmjs.com/package/react-native-smart-splash-screen)
+- [Splash screen](https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae)
+- (http://apetools.webprofusion.com/tools/imagegorilla)
 
 ## Fonts
 - [Fonts](https://github.com/dabit3/react-native-fonts)

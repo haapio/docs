@@ -30,6 +30,7 @@
 - [Axios](https://github.com/mzabriskie/axios)
 - [Splash screen](https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae)
 - (http://apetools.webprofusion.com/tools/imagegorilla)
+- (https://www.youtube.com/watch?v=rnLR65OGtic)
 
 ## Fonts
 - [Fonts](https://github.com/dabit3/react-native-fonts)

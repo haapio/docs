@@ -32,6 +32,11 @@
 - (http://apetools.webprofusion.com/tools/imagegorilla)
 - (https://www.youtube.com/watch?v=rnLR65OGtic)
 
+## Animations
+- [react-native-animatable](https://github.com/oblador/react-native-animatable)
+- [react-motion](https://github.com/chenglou/react-motion)
+- [react-native-interactable](https://github.com/wix/react-native-interactable)
+
 ## Fonts
 - [Fonts](https://github.com/dabit3/react-native-fonts)
 

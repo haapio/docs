@@ -6,6 +6,7 @@
 - [Tour](https://tour.golang.org/list)
 - [Github](https://github.com/golang)
 - [Examples](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/go/example_code)
+- https://github.com/GoesToEleven/GolangTraining
 
 ### Videos & books
 - https://acloud.guru

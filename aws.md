@@ -1,4 +1,5 @@
-- [aws](https://eu-west-1.console.aws.amazon.com/console/home?region=eu-west-1)
+- [aws console](https://eu-west-1.console.aws.amazon.com/console/home?region=eu-west-1)
+- [dynamodb-for-javascript-cheatsheet](http://www.markomedia.com.au/dynamodb-for-javascript-cheatsheet/)
 - [Domain transfer](http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-transfer-to-route-53.html)
 - [serverless](https://serverless.com)
 - [acloud](https://acloud.guru)

@@ -1,0 +1,8 @@
+- [aws](https://eu-west-1.console.aws.amazon.com/console/home?region=eu-west-1)
+- [Domain transfer](http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-transfer-to-route-53.html)
+- [serverless](https://serverless.com)
+
+- [acloud](https://acloud.guru)
+- https://d0.awsstatic.com/training-and-certification/docs-dev-associate/AWS_certified_developer_associate_blueprint.pdf
+- https://d0.awsstatic.com/training-and-certification/docs-dev-associate/AWS_certified_developer_associate_examsample.pdf
+- https://www.youtube.com/channel/UCp8lLM2JP_1pv6E0NQ38pqw

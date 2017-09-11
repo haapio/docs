@@ -2,7 +2,6 @@
 
 - (https://www.eventbrite.com/e/react-native-eu-conference-2017-tickets-32461832214)
 - (https://www.meetup.com/Helsinki-React-Native-Meetup/)
-
 - (https://facebook.github.io/react-native/docs/getting-started.html)
 - (https://www.youtube.com/user/FacebookDevelopers/videos)
 - (http://makeitopen.com)

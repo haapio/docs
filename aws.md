@@ -6,3 +6,4 @@
 - https://d0.awsstatic.com/training-and-certification/docs-dev-associate/AWS_certified_developer_associate_blueprint.pdf
 - https://d0.awsstatic.com/training-and-certification/docs-dev-associate/AWS_certified_developer_associate_examsample.pdf
 - https://www.youtube.com/channel/UCp8lLM2JP_1pv6E0NQ38pqw
+- [serverless - custom domain](https://serverless.com/blog/serverless-api-gateway-domain/)

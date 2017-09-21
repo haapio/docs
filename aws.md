@@ -8,6 +8,5 @@
 - https://www.youtube.com/channel/UCp8lLM2JP_1pv6E0NQ38pqw
 - [serverless - custom domain](https://serverless.com/blog/serverless-api-gateway-domain/)
 - http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/Lambda.html
-
 - https://github.com/awslabs/aws-mobile-react-native-starter
 

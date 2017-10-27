@@ -9,4 +9,5 @@
 - [serverless - custom domain](https://serverless.com/blog/serverless-api-gateway-domain/)
 - http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/Lambda.html
 - https://github.com/awslabs/aws-mobile-react-native-starter
+- https://github.com/dherault/serverless-offline
 

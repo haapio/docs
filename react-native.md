@@ -31,7 +31,8 @@
 - [Mobx](https://blog.callstack.io/write-react-native-apps-in-2017-style-with-mobx-e2dffc209fcb)
 - [Axios](https://github.com/mzabriskie/axios)
 - [Splash screen](https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae)
-- (http://apetools.webprofusion.com/tools/imagegorilla)
+- http://apetools.webprofusion.com/tools/imagegorilla
+- http://ticons.fokkezb.nl/#about
 - (https://www.youtube.com/watch?v=rnLR65OGtic)
 
 ## Animations

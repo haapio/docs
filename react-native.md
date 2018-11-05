@@ -1,10 +1,48 @@
 # React Native
 
-- (https://github.com/lelandrichardson/native-navigation-boilerplate)
-- (https://www.eventbrite.com/e/react-native-eu-conference-2017-tickets-32461832214)
-- (https://www.meetup.com/Helsinki-React-Native-Meetup/)
-- (https://facebook.github.io/react-native/docs/getting-started.html)
-- (https://www.youtube.com/user/FacebookDevelopers/videos)
+
+
+Type checking & linting
+https://reactjs.org/docs/typechecking-with-proptypes.html
+https://eslint.org/
+https://flow.org/
+
+Networking
+https://github.com/axios/axios
+https://github.com/invertase/react-native-firebase
+https://www.apollographql.com/
+
+App state
+https://redux.js.org/
+https://github.com/reduxjs/react-redux
+https://github.com/rt2zz/redux-persist
+
+Side effects
+https://github.com/redux-saga/redux-saga
+https://github.com/reduxjs/redux-thunk
+https://redux-observable.js.org/
+
+Forms
+https://redux-form.com/7.4.2/
+
+User interface
+https://github.com/oblador/react-native-vector-icons
+https://github.com/react-community/lottie-react-native
+https://github.com/styled-components/styled-components
+
+Utils
+https://lodash.com
+https://ramdajs.com/
+https://momentjs.com/
+
+Navigation
+https://reacttraining.com/react-router/
+
+Localization
+https://github.com/AlexanderZaytsev/react-native-i18n
+
+https://github.com/obipawan/react-native-hyperlink
+
 - (http://makeitopen.com)
 - (https://nuclide.io/)
 - (https://flowtype.org)
@@ -25,68 +63,26 @@
 
 ## Components
 
-- [Device info](https://github.com/rebeccahughes/react-native-device-info)
-- [Redux](http://blog.tylerbuchea.com/super-simple-react-redux-application-example/)
-- (http://technoetics.in/redux-explained-as-a-random-messenger-group-conversation/)
-- [Mobx](https://blog.callstack.io/write-react-native-apps-in-2017-style-with-mobx-e2dffc209fcb)
-- [Axios](https://github.com/mzabriskie/axios)
-- [Splash screen](https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae)
+
 - http://apetools.webprofusion.com/tools/imagegorilla
-- http://ticons.fokkezb.nl/#about
-- (https://www.youtube.com/watch?v=rnLR65OGtic)
+
 
 ## Animations
-- [react-native-animatable](https://github.com/oblador/react-native-animatable)
-- [react-motion](https://github.com/chenglou/react-motion)
-- [react-native-interactable](https://github.com/wix/react-native-interactable)
+
 
 ## Fonts
-- [Fonts](https://github.com/dabit3/react-native-fonts)
-
-## Forms
-- (https://github.com/gcanti/tcomb-form-native)
+https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e
 
 ## Location
 - (https://www.npmjs.com/package/geolib)
 
 ## Auth:
-- (https://github.com/fullstackreact/react-native-oauth)
-- [facebook login](https://www.youtube.com/watch?v=rAXVKapP5cM)
-- [login ui](https://www.youtube.com/watch?v=1xu1eeRCPEk)
-- (https://github.com/fullstackreact/react-native-oauth)
+
 
 ## Navigations
 - (https://github.com/aksonov/react-native-router-flux)
 - (https://reactnavigation.org)
-- (https://github.com/airbnb/native-navigation)
-- (http://airbnb.io/native-navigation/)
-- (https://github.com/wix/react-native-navigation)
 
-## Charts
-- (https://medium.com/the-react-native-log/animated-charts-in-react-native-using-d3-and-art-21cd9ccf6c58)
-
-## Icons & elements
-- (https://github.com/oblador/react-native-vector-icons)
-- (https://oblador.github.io/react-native-vector-icons/)
-- (http://nativebase.io/kitchen-sink-app)
-- (http://nativebase.io)
-- (https://github.com/react-native-community/react-native-elements)
-
-## Backend
-- (https://firebase.google.com)
-- (https://github.com/firebase/reactfire)
-- (https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html)
-- (https://www.heroku.com)
-- (http://mern.io)
-- (https://www.meteor.com)
-- (http://yeoman.io)
-- (https://aws.amazon.com/)
-- (https://aws.amazon.com/lambda/?hp=tile&so-exp=below)
-
-## Full-stack frameworks:
-- (https://infinite.red/ignite)
-- (http://getpepperoni.com)
-- (https://expo.io)
 
 ## Fastlane
 
